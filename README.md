@@ -1,0 +1,1 @@
+A multi-service email sender in Python that sends messages via Gmail SMTP, Gmail API, Brevo, Mailjet, and SendGrid. Automatically falls back if one service fails, enabling reliable delivery of HTML emails to any recipient while demonstrating integration with multiple email APIs.
